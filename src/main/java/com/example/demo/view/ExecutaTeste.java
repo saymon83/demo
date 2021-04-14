@@ -24,7 +24,8 @@ public class ExecutaTeste {
 			valorSimulado = new RepositorioSimuladoProduto();
 			
 		}
-		// simula os valores de entrada, podendo ser descomentado a linha que deseja realizar o teste
+		
+	   // simula os valores de entrada, podendo ser descomentado a linha que deseja realizar o teste
 		
 		produtos = valorSimulado.getPrimeiraVenda();
 		
