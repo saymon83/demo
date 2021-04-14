@@ -26,11 +26,11 @@ public class ExecutaTeste {
 		}
 		// simula os valores de entrada, podendo ser descomentado a linha que deseja realizar o teste
 		
-		//produtos = valorSimulado.getPrimeiraVenda();
+		produtos = valorSimulado.getPrimeiraVenda();
 		
 		//produtos = valorSimulado.getSegundaVenda();
 		
-		produtos = valorSimulado.getTerceiraVenda();
+		//produtos = valorSimulado.getTerceiraVenda();
 		
 		for(int i = 0; i < produtos.size(); i++) {
 			descrcao = produtos.get(i).getDescricao();
