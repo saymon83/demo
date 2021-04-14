@@ -4,7 +4,7 @@ Projeto para apresentação.
 
 ## Root URL
 
-https://github.com/saymon83/api-restful-demo/
+https://github.com/saymon83/demo/
 
 ## Endpoints
 
