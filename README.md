@@ -8,10 +8,10 @@ https://github.com/saymon83/api-restful-demo/
 
 ## Endpoints
 
-### User Registration
+### Realizar Calculo com imposto
 
 
-User registration and place with the evaluation.
+Realiza Calculo para imposto basico e imposto por importação, levando em consideração que alguns produtos definidos não se aplica determinado imposto
 
 #### URL
 
