@@ -5,6 +5,7 @@ import java.util.ArrayList;
 
 import com.example.demo.control.ExecuteCalculos;
 import com.example.demo.modal.DadosProduto;
+import com.example.demo.modal.RepositorioSimuladoProduto;
 
 //classe responsavel por simular a tela com os valores de entranda
 public class ExecutaTeste {

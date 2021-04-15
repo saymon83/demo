@@ -1,8 +1,6 @@
-package com.example.demo.view;
+package com.example.demo.modal;
 
 import java.math.BigDecimal;
-
-import com.example.demo.modal.DadosProduto;
 import java.util.ArrayList;
 
 //classe que guarda valores de cada venda

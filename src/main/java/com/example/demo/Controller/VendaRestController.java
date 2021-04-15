@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.control.ExecuteCalculos;
 import com.example.demo.modal.DadosProduto;
-import com.example.demo.view.RepositorioSimuladoProduto;
+import com.example.demo.modal.RepositorioSimuladoProduto;
 
 @RestController
 @RequestMapping(value = "/")
