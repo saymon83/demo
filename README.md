@@ -18,16 +18,16 @@ Realiza Calculo para imposto basico e imposto por importação, levando em consi
 
 #### URL
 
-``localhost:8089/primeira-venda-
-localhost:8089/segunda-venda-
-localhost:8089/terceira-venda``
+http://localhost:8089/primeira-venda -
+http://localhost:8089/segunda-venda -
+http://localhost:8089/terceira-venda
 
 
 #### Method:
 GET
 
 #### Passo a passo:
-``Após adicionar os valores de entrada subir aplicação e consultar pelo Links mencionado localmente.``
+``Após adicionar os valores de entrada e subir aplicação (no meu caso utilizei Spring Boot App)  e consultar pelo Links mencionado localmente.``
 
 
 ###### Arquitetura utilizada:
