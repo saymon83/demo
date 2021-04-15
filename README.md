@@ -27,7 +27,7 @@ http://localhost:8089/terceira-venda
 GET
 
 #### Passo a passo:
-``Após adicionar os valores de entrada e subir aplicação (no meu caso utilizei Spring Boot App)  e consultar pelo Links mencionado localmente.``
+``Após adicionar os valores de entrada e subir aplicação (no meu caso utilizei Spring Boot App) os valores podem ser consultado pelos Links mencionado.``
 
 
 ###### Arquitetura utilizada:
