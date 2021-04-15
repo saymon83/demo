@@ -9,9 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping(value = "/")
 public class HomeRestController {
-
+	
 	@GetMapping
 	private ResponseEntity<Object> home() {
-		return ResponseEntity.ok().body("API RESTful Teste. Mais detalhe: <a target='_blank' href='https://github.com/saymon83/api-restful-demo'>https://github.com/saymon83/api-restful-demo<a>");
+		return ResponseEntity.ok().body("demo teste. Mais detalhe em: <a target='_blank' href='https://github.com/saymon83/demo'>https://github.com/saymon83/demo<a>");
 	}
+
 }
