@@ -15,8 +15,8 @@ Realiza Calculo para imposto basico e imposto por importação, levando em consi
 
 #### URL
 
-localhost:8089/primeira-venda
-localhost:8089/segunda-venda
+localhost:8089/primeira-venda-
+localhost:8089/segunda-venda-
 localhost:8089/terceira-venda
 
 
